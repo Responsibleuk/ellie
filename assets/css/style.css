@@ -129,7 +129,7 @@ h6 {
   border: 0px;
   height: 1px;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(179, 198, 231, 0.2);
   transition: all 1.5s;
 }
 
@@ -855,7 +855,7 @@ h6 {
  main_slider_area three
  =================================*/
 .main_slider_area_three {
-  background: #211e26;
+  background: #CBC3E3;
   padding: 150px 0px;
 }
 
